@@ -9,4 +9,4 @@ normales y lo imprime.
 Este programa lo desarrolle por voluntad propia para poder imprimir recibos de cobros y pagos como otros conceptos, para facilitarnos las tareas de control de vehiculos
 al tener mas a mano (dichos recibos en un tablon) la informacion de entrada,salida y pago.Para facilitarles la tarea de control de los vehiculos tambien en direccion al
 tener un recibo de estos y no tener que esperar los partes diarios como se hacia antiguamente y el control de los pagos que se hacian en el negocio.
-El programa se puede mejorar mucho, pero se diseño rapidamente ya que lo diseñe por voluntad propia, rapidamente y por supuesto sin percibir ninguna cantidad de dinero por el.
+El programa se puede mejorar mucho, pero se diseño rapidamente ya que lo diseñe por voluntad propia y por supuesto sin percibir ninguna cantidad de dinero por el.
