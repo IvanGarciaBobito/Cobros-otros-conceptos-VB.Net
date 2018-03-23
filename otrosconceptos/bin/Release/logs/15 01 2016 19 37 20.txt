@@ -1,0 +1,200 @@
+detectado tarifa de cobro
+añadiendo cobro a la lista con id principal 0, id de tarifa 0 y nombre Cobros de tickets
+detectado tarifa de cobro
+añadiendo cobro a la lista con id principal 0, id de tarifa 1 y nombre Renovacion Turismos
+detectado tarifa de cobro
+añadiendo cobro a la lista con id principal 0, id de tarifa 2 y nombre Estancia sin definir
+detectado pago
+añadiendo cobro a la lista con id principal 1, id de tarifa 3 y nombre En metálico
+detectado tarifa de cobro
+añadiendo cobro a la lista con id principal 0, id de tarifa 4 y nombre Estancia mensual turismo
+detectado tarifa de cobro
+añadiendo cobro a la lista con id principal 0, id de tarifa 5 y nombre Estancia Semanal
+detectado pago
+añadiendo cobro a la lista con id principal 1, id de tarifa 6 y nombre Devolucion fianza tarjeta
+detectado tarifa de cobro
+añadiendo cobro a la lista con id principal 0, id de tarifa 8 y nombre Anulación cobro
+detectado tarifa de cobro
+añadiendo cobro a la lista con id principal 0, id de tarifa 9 y nombre Gastos bancarios
+detectado tarifa de cobro
+añadiendo cobro a la lista con id principal 0, id de tarifa 10 y nombre Fianza Tarjeta
+detectado tarifa de cobro
+añadiendo cobro a la lista con id principal 0, id de tarifa 13 y nombre TARJETA DE CREDITO
+detectado tarifa de cobro
+añadiendo cobro a la lista con id principal 0, id de tarifa 11 y nombre Estancia mensual Furgoneta
+detectado tarifa de cobro
+añadiendo cobro a la lista con id principal 0, id de tarifa 14 y nombre Cheque nominativo
+detectado tarifa de cobro
+añadiendo cobro a la lista con id principal 0, id de tarifa 15 y nombre Renovacion Motos
+detectado tarifa de cobro
+añadiendo cobro a la lista con id principal 0, id de tarifa 12 y nombre Renovación Gran turismo
+detectado tarifa de cobro
+añadiendo cobro a la lista con id principal 0, id de tarifa 20 y nombre Suplemento 4x3
+detectado tarifa de cobro
+añadiendo cobro a la lista con id principal 0, id de tarifa 18 y nombre Fianza mando y llave
+detectado tarifa de cobro
+añadiendo cobro a la lista con id principal 0, id de tarifa 19 y nombre Fianza Mando Puerta
+la seleccion del combobox de cobros a cambiado 
+el radiobutton2 esta chequeado
+entrando en un bucle de 0 a 1
+ el pago con nombre En metálico no es igual al nombre del combobox de pagos 
+buscando el siguiente 
+ el pago con nombre Devolucion fianza tarjeta no es igual al nombre del combobox de pagos 
+buscando el siguiente 
+terminacion de busqueda de datos 
+la seleccion del combobox de pgos a cambiado 
+el radiobutton2 esta chequeado
+entrando en un bucle de 0 a 1
+el pago con nombre En metálico es igual al nombre del combobox de pagos En metálico
+Se le pasa la fecha 15/01/2016 19:37:20 apara prepararla para la busqueda
+empieza a crear la cadena con el año: 2016
+empieza a crear y juntar la cadena con el mes
+el mes esta comprendido entre el 1 y el 9 
+añadimos el 0 y la cadena queda asi 201601empieza a crear  y juntar la cadena con el dia
+El dia esta comprendido entre el 10 y el 31
+lo juntamo sin añadir el 0 y la cadena queda asi:20160115
+esto es lo que retorna la funcion 20160115buscando datos con id tipo cp  3 fecha 20160115
+la seleccion del combobox de cobros a cambiado 
+0
+ocultando columnas que no interesan verse 
+buscando el siguiente 
+ el pago con nombre Devolucion fianza tarjeta no es igual al nombre del combobox de pagos En metálico
+buscando el siguiente 
+terminacion de busqueda de datos 
+la seleccion del datetimepicker de la fecha a cambiado 
+ el radiobutton1 esta chequeado
+entrando en bucle de 0 a 15
+el cobro con nombre Cobros de tickets es igual al nombre del combobox de cobros Cobros de tickets
+Se le pasa la fecha 15/01/2016 19:37:22 apara prepararla para la busqueda
+empieza a crear la cadena con el año: 2016
+empieza a crear y juntar la cadena con el mes
+el mes esta comprendido entre el 1 y el 9 
+añadimos el 0 y la cadena queda asi 201601empieza a crear  y juntar la cadena con el dia
+El dia esta comprendido entre el 10 y el 31
+lo juntamo sin añadir el 0 y la cadena queda asi:20160115
+esto es lo que retorna la funcion 20160115buscando datos con id tipo cp  0 fecha 20160115
+0
+ocultando columnas que no interesan verse 
+buscando el siguiente 
+ el cobro con nombre Renovacion Turismos no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Estancia sin definir no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Estancia mensual turismo no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Estancia Semanal no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Anulación cobro no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Gastos bancarios no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Fianza Tarjeta no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre TARJETA DE CREDITO no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Estancia mensual Furgoneta no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Cheque nominativo no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Renovacion Motos no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Renovación Gran turismo no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Suplemento 4x3 no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Fianza mando y llave no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Fianza Mando Puerta no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+terminacion de busqueda de datos 
+ el radiobutton1 esta chequeado
+entrando en bucle de 0 a 15
+el cobro con nombre Cobros de tickets es igual al nombre del combobox de cobros Cobros de tickets
+Se le pasa la fecha 15/01/2016 19:37:22 apara prepararla para la busqueda
+empieza a crear la cadena con el año: 2016
+empieza a crear y juntar la cadena con el mes
+el mes esta comprendido entre el 1 y el 9 
+añadimos el 0 y la cadena queda asi 201601empieza a crear  y juntar la cadena con el dia
+El dia esta comprendido entre el 10 y el 31
+lo juntamo sin añadir el 0 y la cadena queda asi:20160115
+esto es lo que retorna la funcion 20160115buscando datos con id tipo cp  0 fecha 20160115
+0
+ocultando columnas que no interesan verse 
+buscando el siguiente 
+ el cobro con nombre Renovacion Turismos no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Estancia sin definir no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Estancia mensual turismo no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Estancia Semanal no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Anulación cobro no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Gastos bancarios no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Fianza Tarjeta no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre TARJETA DE CREDITO no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Estancia mensual Furgoneta no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Cheque nominativo no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Renovacion Motos no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Renovación Gran turismo no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Suplemento 4x3 no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Fianza mando y llave no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+ el cobro con nombre Fianza Mando Puerta no es igual al nombre del combobox de cobros Cobros de tickets
+buscando el siguiente 
+terminacion de busqueda de datos 
+la seleccion del combobox de cobros a cambiado 
+ el radiobutton1 esta chequeado
+entrando en bucle de 0 a 15
+ el cobro con nombre Cobros de tickets no es igual al nombre del combobox de cobros Estancia sin definir
+buscando el siguiente 
+ el cobro con nombre Renovacion Turismos no es igual al nombre del combobox de cobros Estancia sin definir
+buscando el siguiente 
+el cobro con nombre Estancia sin definir es igual al nombre del combobox de cobros Estancia sin definir
+Se le pasa la fecha 15/01/2016 19:37:22 apara prepararla para la busqueda
+empieza a crear la cadena con el año: 2016
+empieza a crear y juntar la cadena con el mes
+el mes esta comprendido entre el 1 y el 9 
+añadimos el 0 y la cadena queda asi 201601empieza a crear  y juntar la cadena con el dia
+El dia esta comprendido entre el 10 y el 31
+lo juntamo sin añadir el 0 y la cadena queda asi:20160115
+esto es lo que retorna la funcion 20160115buscando datos con id tipo cp  2 fecha 20160115
+0
+ocultando columnas que no interesan verse 
+buscando el siguiente 
+ el cobro con nombre Estancia mensual turismo no es igual al nombre del combobox de cobros Estancia sin definir
+buscando el siguiente 
+ el cobro con nombre Estancia Semanal no es igual al nombre del combobox de cobros Estancia sin definir
+buscando el siguiente 
+ el cobro con nombre Anulación cobro no es igual al nombre del combobox de cobros Estancia sin definir
+buscando el siguiente 
+ el cobro con nombre Gastos bancarios no es igual al nombre del combobox de cobros Estancia sin definir
+buscando el siguiente 
+ el cobro con nombre Fianza Tarjeta no es igual al nombre del combobox de cobros Estancia sin definir
+buscando el siguiente 
+ el cobro con nombre TARJETA DE CREDITO no es igual al nombre del combobox de cobros Estancia sin definir
+buscando el siguiente 
+ el cobro con nombre Estancia mensual Furgoneta no es igual al nombre del combobox de cobros Estancia sin definir
+buscando el siguiente 
+ el cobro con nombre Cheque nominativo no es igual al nombre del combobox de cobros Estancia sin definir
+buscando el siguiente 
+ el cobro con nombre Renovacion Motos no es igual al nombre del combobox de cobros Estancia sin definir
+buscando el siguiente 
+ el cobro con nombre Renovación Gran turismo no es igual al nombre del combobox de cobros Estancia sin definir
+buscando el siguiente 
+ el cobro con nombre Suplemento 4x3 no es igual al nombre del combobox de cobros Estancia sin definir
+buscando el siguiente 
+ el cobro con nombre Fianza mando y llave no es igual al nombre del combobox de cobros Estancia sin definir
+buscando el siguiente 
+ el cobro con nombre Fianza Mando Puerta no es igual al nombre del combobox de cobros Estancia sin definir
+buscando el siguiente 
+terminacion de busqueda de datos 

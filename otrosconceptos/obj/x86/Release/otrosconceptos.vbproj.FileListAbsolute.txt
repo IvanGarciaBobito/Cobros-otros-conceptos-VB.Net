@@ -1,0 +1,58 @@
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\bin\Release\otrosconceptos.exe.config
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\bin\Release\otrosconceptos.exe
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\bin\Release\otrosconceptos.pdb
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\bin\Release\otrosconceptos.xml
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\bin\Release\CrystalDecisions.ReportSource.dll
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\bin\Release\CrystalDecisions.Shared.dll
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\bin\Release\CrystalDecisions.Windows.Forms.dll
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\bin\Release\fire.dll
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\bin\Release\FlashControlV71.dll
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\obj\x86\Release\ResolveAssemblyReference.cache
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.Form1.resources
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.Form2.resources
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.Resources.resources
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\obj\x86\Release\GenerateResource.read.1.tlog
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\obj\x86\Release\GenerateResource.write.1.tlog
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.exe
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.xml
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.pdb
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\bin\Release\otrosconceptos.exe.config
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\bin\Release\otrosconceptos.exe
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\bin\Release\otrosconceptos.pdb
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\bin\Release\otrosconceptos.xml
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\bin\Release\CrystalDecisions.Shared.dll
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\bin\Release\fire.dll
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\bin\Release\FlashControlV71.dll
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.Form1.resources
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.Form2.resources
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.Resources.resources
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.exe
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.xml
+C:\Documents and Settings\mabyc\Escritorio\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.pdb
+C:\Users\turus\Documents\Visual Studio 2013\Projects\otrosconceptos\otrosconceptos\bin\Release\otrosconceptos.exe.config
+C:\Users\turus\Documents\Visual Studio 2013\Projects\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.exe
+C:\Users\turus\Documents\Visual Studio 2013\Projects\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.xml
+C:\Users\turus\Documents\Visual Studio 2013\Projects\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.pdb
+C:\Users\turus\Desktop\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.vbprojResolveAssemblyReference.cache
+C:\Users\turus\Desktop\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.Form1.resources
+C:\Users\turus\Desktop\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.Form2.resources
+C:\Users\turus\Desktop\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.Resources.resources
+C:\Users\turus\Desktop\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.vbproj.GenerateResource.Cache
+C:\Users\turus\Desktop\otrosconceptos\otrosconceptos\bin\Release\otrosconceptos.exe.config
+C:\Users\turus\Desktop\otrosconceptos\otrosconceptos\bin\Release\otrosconceptos.exe
+C:\Users\turus\Desktop\otrosconceptos\otrosconceptos\bin\Release\otrosconceptos.pdb
+C:\Users\turus\Desktop\otrosconceptos\otrosconceptos\bin\Release\otrosconceptos.xml
+C:\Users\turus\Desktop\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.exe
+C:\Users\turus\Desktop\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.xml
+C:\Users\turus\Desktop\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.pdb
+C:\Users\turus\Desktop\programas mios\otrosconceptos\otrosconceptos\bin\Release\otrosconceptos.exe.config
+C:\Users\turus\Desktop\programas mios\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.exe
+C:\Users\turus\Desktop\programas mios\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.xml
+C:\Users\turus\Desktop\programas mios\otrosconceptos\otrosconceptos\obj\x86\Release\otrosconceptos.pdb

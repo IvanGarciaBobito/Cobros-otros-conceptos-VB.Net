@@ -1,0 +1,14 @@
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\bin\Debug\otrosconceptos.exe.config
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\bin\Debug\otrosconceptos.exe
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\bin\Debug\otrosconceptos.pdb
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\bin\Debug\otrosconceptos.xml
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\obj\x86\Debug\otrosconceptos.Form1.resources
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\obj\x86\Debug\otrosconceptos.Form2.resources
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\obj\x86\Debug\otrosconceptos.Resources.resources
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\obj\x86\Debug\otrosconceptos.exe
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\obj\x86\Debug\otrosconceptos.xml
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\obj\x86\Debug\otrosconceptos.pdb
+c:\documents and settings\mabyc\mis documentos\visual studio 2010\Projects\otrosconceptos\otrosconceptos\bin\Debug\fire.dll
